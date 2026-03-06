@@ -1,0 +1,1 @@
+﻿Console.WriteLine("Tabla de multiplicar con el número que el usuario ingrese");
